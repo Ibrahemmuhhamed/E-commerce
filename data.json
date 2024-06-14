@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Loose Fit Sweatshirt",
+    "price": "14$",
+    "colors": ["efdefe", "547856", "dddd"],
+    "images": [
+      {
+        "main": "https://demo-ecomus-global.myshopify.com/cdn/shop/files/hmgoepprod_6_16a30228-44a2-418a-b74e-d3af3a8231b8.webp?v=1704247574&width=768",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      }
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Ribbed Tank Top",
+    "price": "14$",
+    "colors": ["e8e", "547856", "dddd"],
+    "images": [
+      {
+        "main": "./images/hmgoepprod_8_b9ffab1e-c5fb-4429-a340-b04af59c9ef6.webp",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ribbed Tank Top",
+    "price": "14$",
+    "colors": ["e8e", "547856", "dddd"],
+    "images": [
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ribbed Tank Top",
+    "price": "14$",
+    "colors": ["e8e", "547856", "dddd"],
+    "images": [
+      {
+        "main": "./images/hmgoepprod_464ab47c-cf8d-44ee-9610-0fb017e45dba.webp",
+        "hoverd": "./images/hmgoepprof.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ribbed Tank Tosssp",
+    "price": "14$",
+    "discount": "20%",
+    "newPrice": "12$",
+    "discountDateEnd": "15 Jun 2024 10:00:00",
+    "colors": ["e8e", "547856", "dddd"],
+    "images": [
+      {
+        "main": "./images/hmgoepprod.webp",
+        "hoverd": "./images/cate2.webp"
+      },
+      {
+        "main": "./images/001fashion-slideshow-01.webp",
+        "hoverd": "./images/001fashion-slideshow-03.webp"
+      },
+      {
+        "main": "./images/cate1.webp",
+        "hoverd": "./images/cate2.webp"
+      }
+    ]
+  }
+]
